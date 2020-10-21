@@ -1,2 +1,2 @@
 # WebDev
-Repositorio para praticar HTML/CSS e Javascript.
+Repository to pratice HTML/CSS and JavaScript
